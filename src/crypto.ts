@@ -165,8 +165,6 @@ export async function importSymKey(
   );
   return importedKey;
 }
-const
-
 
 // Encrypt a message using a symmetric key
 export async function symEncrypt(
